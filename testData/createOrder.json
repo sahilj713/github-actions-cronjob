@@ -1,0 +1,18 @@
+{
+    "patient": {
+        "firstName": "QA",
+        "lastName": "TestAPI",
+        "mobileNumber": "1234567890",
+        "dob": "2023-07-18",
+        "city": "Punjab",
+        "language": "EN"
+    },
+    "facilityId": 1,
+    "files": [
+        {
+            "fileName": "fileName",
+            "fileKey": "fileKey",
+            "type": "File"
+        }
+    ]
+}
